@@ -1,0 +1,55 @@
+
+
+html {font-size: 1em;}
+
+body {
+
+font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  c
+
+}
+p1 {
+  font-size: 2em;
+}
+p {
+  font-size: 1,5em;
+color: #015463;
+font-family: 'Dosis', sans-serif;}
+
+
+p1 {
+font-size: 1,5em;
+color: #fff;
+}
+
+h2, h4 {
+  color: #F9C5A3;
+    font-family: 'Anton', sans-serif;
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h3 {
+  font-family: 'Dosis', sans-serif;
+
+}
+
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  margin-top: 0;
+  font-size: 7em;
+}
+
+h2 {font-size: 2.827em;}
+
+h3 {font-size: 1.999em;}
+
+h4 {font-size: 1.414em;}
+
+small, .font_small {font-size: 0.707em;}
+
+ /* aller dans typoscale et coller le css que le site propose */
